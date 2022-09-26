@@ -1,0 +1,10 @@
+.container__movies{
+  max-width: 1200px;
+  margin: 100px auto;
+}
+.row__movies{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
